@@ -62,5 +62,4 @@ The spam detection model has been trained and evaluated using a labeled dataset 
 
 **Disclaimer:**
 Please note that while the spam detection model provided in this repository has been designed to identify spam messages, it may not capture all forms of spam accurately. The model's effectiveness may vary depending on the dataset and real-world scenarios. Always exercise caution and employ additional security measures to protect against spam and phishing attacks.
-
 Let's build a powerful spam detection system to keep unwanted messages at bay!
